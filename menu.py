@@ -12,7 +12,7 @@ while choice == 4:
 if choice == 1:
     print(f'A soma dos números são {n1+n2}')
 elif choice == 2:
-    print(f'Os valores {n1} x {n2} multiplicados são {n1*n2} ')
+    print(f'Os valores {n1} x {n2} multiplicados é {n1*n2} ')
 elif choice == 3:
  if n1 > n2:
      print(f'{n1} é o número maior')
